@@ -1,12 +1,3 @@
----
-title: "얼굴 분류 프로그램"
-excerpt: "성별/연령/안경 착용 여부에 따른 얼굴 분류 프로젝트"
-
-toc: true
-toc_sticky: true
-
-categories: Project
----
 
 # **Face-Classification-by-Gender/Age/Glasses**
   
@@ -208,15 +199,16 @@ Language|Python|Python|
   
   
 ## Result
-![](https://github.com/rib-president/Face-Classification/blob/master/sample/face_3.JPG/)
 #### <center> class 3: boy로 분류된 이미지들</center>
-  
+![](https://github.com/rib-president/Face-Classification/blob/master/sample/face_3.JPG/)
 
-![](https://github.com/rib-president/Face-Classification/blob/master/sample/face_4.JPG/)
+  
 #### <center> class 4: plain female로 분류된 이미지들</center>
-  
+![](https://github.com/rib-president/Face-Classification/blob/master/sample/face_4.JPG/)
 
-![](https://github.com/rib-president/Face-Classification/blob/master/sample/face_2.JPG/)
+  
 #### <center> class 2: glasses male로 분류된 이미지들</center>
+![](https://github.com/rib-president/Face-Classification/blob/master/sample/face_2.JPG/)
+
   
   
